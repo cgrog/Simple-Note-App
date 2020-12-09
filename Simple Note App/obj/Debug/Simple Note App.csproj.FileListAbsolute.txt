@@ -1,0 +1,10 @@
+C:\Users\Dev\source\repos\Simple-Note-App\Simple Note App\bin\Debug\Simple Note App.exe.config
+C:\Users\Dev\source\repos\Simple-Note-App\Simple Note App\bin\Debug\Simple Note App.exe
+C:\Users\Dev\source\repos\Simple-Note-App\Simple Note App\bin\Debug\Simple Note App.pdb
+C:\Users\Dev\source\repos\Simple-Note-App\Simple Note App\obj\Debug\Simple Note App.csprojAssemblyReference.cache
+C:\Users\Dev\source\repos\Simple-Note-App\Simple Note App\obj\Debug\Simple_Note_App.Form1.resources
+C:\Users\Dev\source\repos\Simple-Note-App\Simple Note App\obj\Debug\Simple_Note_App.Properties.Resources.resources
+C:\Users\Dev\source\repos\Simple-Note-App\Simple Note App\obj\Debug\Simple Note App.csproj.GenerateResource.cache
+C:\Users\Dev\source\repos\Simple-Note-App\Simple Note App\obj\Debug\Simple Note App.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\Simple-Note-App\Simple Note App\obj\Debug\Simple Note App.exe
+C:\Users\Dev\source\repos\Simple-Note-App\Simple Note App\obj\Debug\Simple Note App.pdb
